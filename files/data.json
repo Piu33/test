@@ -1,0 +1,1932 @@
+[
+    {
+        "DATA":"06.02.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":84.0,
+        "VALUTA":"USD",
+        "N. FUTURES":19,
+        "N. OPZIONI":48
+    },
+    {
+        "DATA":"04.02.2025",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":6056.25,
+        "VALUTA":"USD",
+        "N. FUTURES":19,
+        "N. OPZIONI":40
+    },
+    {
+        "DATA":"04.02.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":20,
+        "PREZZO":109.3,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":40
+    },
+    {
+        "DATA":"03.02.2025",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":16,
+        "PREZZO":5962.75,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":20
+    },
+    {
+        "DATA":"03.02.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":57,
+        "PREZZO":162.96,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":20
+    },
+    {
+        "DATA":"31.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":13,
+        "PREZZO":78.3,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":77
+    },
+    {
+        "DATA":"28.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":106.0,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":64
+    },
+    {
+        "DATA":"27.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":20,
+        "PREZZO":127.0,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":56
+    },
+    {
+        "DATA":"22.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":16,
+        "PREZZO":84.75,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":76
+    },
+    {
+        "DATA":"17.01.2025",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":6041.86,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":60
+    },
+    {
+        "DATA":"17.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":60,
+        "PREZZO":127.53,
+        "VALUTA":"USD",
+        "N. FUTURES":18,
+        "N. OPZIONI":60
+    },
+    {
+        "DATA":"17.01.2025",
+        "STRUMENTO FINANZIARIO":"put 5825 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":55,
+        "PREZZO":64.75,
+        "VALUTA":"USD",
+        "N. FUTURES":18,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"15.01.2025",
+        "STRUMENTO FINANZIARIO":"put 5825 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":15,
+        "PREZZO":85.0,
+        "VALUTA":"USD",
+        "N. FUTURES":18,
+        "N. OPZIONI":55
+    },
+    {
+        "DATA":"15.01.2025",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":1,
+        "PREZZO":5978.0,
+        "VALUTA":"USD",
+        "N. FUTURES":18,
+        "N. OPZIONI":40
+    },
+    {
+        "DATA":"13.01.2025",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":15,
+        "PREZZO":5839.05,
+        "VALUTA":"USD",
+        "N. FUTURES":19,
+        "N. OPZIONI":40
+    },
+    {
+        "DATA":"13.01.2025",
+        "STRUMENTO FINANZIARIO":"put 5825 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":40,
+        "PREZZO":153.2,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":40
+    },
+    {
+        "DATA":"13.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":56,
+        "PREZZO":239.51,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"10.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":7,
+        "PREZZO":211.75,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":56
+    },
+    {
+        "DATA":"07.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":17,
+        "PREZZO":176.0,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":63
+    },
+    {
+        "DATA":"06.01.2025",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":28,
+        "PREZZO":6057.0,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"06.01.2025",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":68,
+        "PREZZO":119.8,
+        "VALUTA":"USD",
+        "N. FUTURES":6,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"20.12.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":12,
+        "PREZZO":246.42,
+        "VALUTA":"USD",
+        "N. FUTURES":7,
+        "N. OPZIONI":12
+    },
+    {
+        "DATA":"20.12.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":5892.0,
+        "VALUTA":"USD",
+        "N. FUTURES":7,
+        "N. OPZIONI":24
+    },
+    {
+        "DATA":"20.12.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":12,
+        "PREZZO":5826.5,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":24
+    },
+    {
+        "DATA":"19.12.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":92,
+        "PREZZO":212.0,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":24
+    },
+    {
+        "DATA":"19.12.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":28,
+        "PREZZO":5876.0,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":116
+    },
+    {
+        "DATA":"04.12.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":108.0,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":116
+    },
+    {
+        "DATA":"29.11.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":5,
+        "PREZZO":122.25,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":105
+    },
+    {
+        "DATA":"26.11.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":12,
+        "PREZZO":133.5,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"21.11.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":174.0,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":88
+    },
+    {
+        "DATA":"19.11.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":35,
+        "PREZZO":5925.25,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"19.11.2024",
+        "STRUMENTO FINANZIARIO":"put 6000 21 marzo 2025",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":80,
+        "PREZZO":186.0,
+        "VALUTA":"USD",
+        "N. FUTURES":5,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"19.11.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":46,
+        "PREZZO":14.5,
+        "VALUTA":"USD",
+        "N. FUTURES":5,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"15.11.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":18,
+        "PREZZO":19.5,
+        "VALUTA":"USD",
+        "N. FUTURES":5,
+        "N. OPZIONI":46
+    },
+    {
+        "DATA":"07.11.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":3,
+        "PREZZO":5994.25,
+        "VALUTA":"USD",
+        "N. FUTURES":5,
+        "N. OPZIONI":64
+    },
+    {
+        "DATA":"06.11.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":5917.0,
+        "VALUTA":"USD",
+        "N. FUTURES":8,
+        "N. OPZIONI":64
+    },
+    {
+        "DATA":"05.11.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":12,
+        "PREZZO":53.5,
+        "VALUTA":"USD",
+        "N. FUTURES":14,
+        "N. OPZIONI":64
+    },
+    {
+        "DATA":"31.10.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":27,
+        "PREZZO":76.7,
+        "VALUTA":"USD",
+        "N. FUTURES":14,
+        "N. OPZIONI":52
+    },
+    {
+        "DATA":"25.10.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":3,
+        "PREZZO":5890.0,
+        "VALUTA":"USD",
+        "N. FUTURES":14,
+        "N. OPZIONI":79
+    },
+    {
+        "DATA":"24.10.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":13,
+        "PREZZO":58.75,
+        "VALUTA":"USD",
+        "N. FUTURES":17,
+        "N. OPZIONI":79
+    },
+    {
+        "DATA":"14.10.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":3,
+        "PREZZO":5900.0,
+        "VALUTA":"USD",
+        "N. FUTURES":17,
+        "N. OPZIONI":92
+    },
+    {
+        "DATA":"11.10.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":66.0,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":92
+    },
+    {
+        "DATA":"09.10.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":73.75,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":85
+    },
+    {
+        "DATA":"08.10.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":9,
+        "PREZZO":84.0,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":77
+    },
+    {
+        "DATA":"01.10.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":16,
+        "PREZZO":96.5,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":68
+    },
+    {
+        "DATA":"27.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":73.25,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":84
+    },
+    {
+        "DATA":"19.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":88.25,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":73
+    },
+    {
+        "DATA":"13.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":12,
+        "PREZZO":108.25,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":62
+    },
+    {
+        "DATA":"12.09.2024",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":20,
+        "PREZZO":5624.5,
+        "VALUTA":"USD",
+        "N. FUTURES":20,
+        "N. OPZIONI":50
+    },
+    {
+        "DATA":"12.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 dicembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":50,
+        "PREZZO":134.0,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":50
+    },
+    {
+        "DATA":"12.09.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":27,
+        "PREZZO":5567.69,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"12.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":40,
+        "PREZZO":30.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"11.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":95.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":40
+    },
+    {
+        "DATA":"09.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":75.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":49
+    },
+    {
+        "DATA":"06.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":13,
+        "PREZZO":115.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":41
+    },
+    {
+        "DATA":"05.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":12,
+        "PREZZO":79.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":54
+    },
+    {
+        "DATA":"04.09.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":14,
+        "PREZZO":60.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":66
+    },
+    {
+        "DATA":"03.09.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":5574.5,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"29.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":5,
+        "PREZZO":5651.75,
+        "VALUTA":"USD",
+        "N. FUTURES":17,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"21.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":26,
+        "PREZZO":5632.8,
+        "VALUTA":"USD",
+        "N. FUTURES":22,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"21.08.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":73,
+        "PREZZO":43.12,
+        "VALUTA":"USD",
+        "N. FUTURES":22,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"19.08.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":33,
+        "PREZZO":46.5,
+        "VALUTA":"USD",
+        "N. FUTURES":48,
+        "N. OPZIONI":153
+    },
+    {
+        "DATA":"15.08.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":33,
+        "PREZZO":67.5,
+        "VALUTA":"USD",
+        "N. FUTURES":48,
+        "N. OPZIONI":120
+    },
+    {
+        "DATA":"14.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":7,
+        "PREZZO":5460.0,
+        "VALUTA":"USD",
+        "N. FUTURES":48,
+        "N. OPZIONI":87
+    },
+    {
+        "DATA":"13.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":5409.5,
+        "VALUTA":"USD",
+        "N. FUTURES":55,
+        "N. OPZIONI":87
+    },
+    {
+        "DATA":"06.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":11,
+        "PREZZO":5298.5,
+        "VALUTA":"USD",
+        "N. FUTURES":61,
+        "N. OPZIONI":87
+    },
+    {
+        "DATA":"05.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":18,
+        "PREZZO":5203.7,
+        "VALUTA":"USD",
+        "N. FUTURES":72,
+        "N. OPZIONI":87
+    },
+    {
+        "DATA":"02.08.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":28,
+        "PREZZO":179.2,
+        "VALUTA":"USD",
+        "N. FUTURES":54,
+        "N. OPZIONI":87
+    },
+    {
+        "DATA":"01.08.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":5513.75,
+        "VALUTA":"USD",
+        "N. FUTURES":54,
+        "N. OPZIONI":115
+    },
+    {
+        "DATA":"31.07.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":30,
+        "PREZZO":89.0,
+        "VALUTA":"USD",
+        "N. FUTURES":47,
+        "N. OPZIONI":115
+    },
+    {
+        "DATA":"30.07.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":15,
+        "PREZZO":138.0,
+        "VALUTA":"USD",
+        "N. FUTURES":47,
+        "N. OPZIONI":85
+    },
+    {
+        "DATA":"24.07.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":40,
+        "PREZZO":111.0,
+        "VALUTA":"USD",
+        "N. FUTURES":47,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"18.07.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":5603.75,
+        "VALUTA":"USD",
+        "N. FUTURES":47,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"11.07.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":5657.25,
+        "VALUTA":"USD",
+        "N. FUTURES":37,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"08.07.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":5626.75,
+        "VALUTA":"USD",
+        "N. FUTURES":46,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"03.07.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":11,
+        "PREZZO":5576.25,
+        "VALUTA":"USD",
+        "N. FUTURES":55,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"01.07.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":9,
+        "PREZZO":5513.0,
+        "VALUTA":"USD",
+        "N. FUTURES":66,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"28.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":16,
+        "PREZZO":5556.75,
+        "VALUTA":"USD",
+        "N. FUTURES":57,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"28.06.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":40,
+        "PREZZO":96.5,
+        "VALUTA":"USD",
+        "N. FUTURES":41,
+        "N. OPZIONI":140
+    },
+    {
+        "DATA":"20.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":41,
+        "PREZZO":5567.64,
+        "VALUTA":"USD",
+        "N. FUTURES":41,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"20.06.2024",
+        "STRUMENTO FINANZIARIO":"put 5500 20 settembre 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":103.82,
+        "VALUTA":"USD",
+        "N. FUTURES":41,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"20.06.2024",
+        "STRUMENTO FINANZIARIO":"put 5125 21 giugno 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":0.1,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"20.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":2,
+        "PREZZO":5494.5,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"12.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":4,
+        "PREZZO":5445.5,
+        "VALUTA":"USD",
+        "N. FUTURES":2,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"06.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":4,
+        "PREZZO":5363.5,
+        "VALUTA":"USD",
+        "N. FUTURES":6,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"05.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":7,
+        "PREZZO":5329.5,
+        "VALUTA":"USD",
+        "N. FUTURES":10,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"03.06.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":10,
+        "PREZZO":5281.25,
+        "VALUTA":"USD",
+        "N. FUTURES":17,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"31.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":13,
+        "PREZZO":5231.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"16.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":5,
+        "PREZZO":5347.5,
+        "VALUTA":"USD",
+        "N. FUTURES":14,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"15.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":8,
+        "PREZZO":5306.75,
+        "VALUTA":"USD",
+        "N. FUTURES":19,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"10.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":5253.75,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"07.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":5222.25,
+        "VALUTA":"USD",
+        "N. FUTURES":33,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"06.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":5184.25,
+        "VALUTA":"USD",
+        "N. FUTURES":39,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"03.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":12,
+        "PREZZO":5134.25,
+        "VALUTA":"USD",
+        "N. FUTURES":48,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"01.05.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":12,
+        "PREZZO":5057.5,
+        "VALUTA":"USD",
+        "N. FUTURES":60,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"26.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":15,
+        "PREZZO":5136.0,
+        "VALUTA":"USD",
+        "N. FUTURES":48,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"25.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":5037.5,
+        "VALUTA":"USD",
+        "N. FUTURES":63,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":13,
+        "PREZZO":5104.5,
+        "VALUTA":"USD",
+        "N. FUTURES":52,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"22.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":5012.0,
+        "VALUTA":"USD",
+        "N. FUTURES":65,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"16.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":13,
+        "PREZZO":5089.0,
+        "VALUTA":"USD",
+        "N. FUTURES":54,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"12.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":5190.0,
+        "VALUTA":"USD",
+        "N. FUTURES":41,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"12.04.2024",
+        "STRUMENTO FINANZIARIO":"put 5125 21 giugno 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":103.91,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"12.04.2024",
+        "STRUMENTO FINANZIARIO":"put 5125 30 aprile 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":42.1,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"11.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":5193.5,
+        "VALUTA":"USD",
+        "N. FUTURES":34,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"05.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":5247.0,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"04.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":11,
+        "PREZZO":5299.5,
+        "VALUTA":"USD",
+        "N. FUTURES":17,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"02.04.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":9,
+        "PREZZO":5240.0,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"21.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":13,
+        "PREZZO":5318.5,
+        "VALUTA":"USD",
+        "N. FUTURES":19,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"19.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":8,
+        "PREZZO":5223.0,
+        "VALUTA":"USD",
+        "N. FUTURES":32,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"15.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":5178.7,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"12.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":8,
+        "PREZZO":5181.0,
+        "VALUTA":"USD",
+        "N. FUTURES":33,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"11.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":5178.7,
+        "VALUTA":"USD",
+        "N. FUTURES":41,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"08.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":5250.5,
+        "VALUTA":"USD",
+        "N. FUTURES":30,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"06.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":5190.0,
+        "VALUTA":"USD",
+        "N. FUTURES":39,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"05.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":5155.0,
+        "VALUTA":"USD",
+        "N. FUTURES":45,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"04.03.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":5200.9,
+        "VALUTA":"USD",
+        "N. FUTURES":37,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Giugno",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":43,
+        "PREZZO":5166.4,
+        "VALUTA":"USD",
+        "N. FUTURES":43,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":12,
+        "PREZZO":5099.0,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.02.2024",
+        "STRUMENTO FINANZIARIO":"put 5125 30 aprile 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":85.75,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.02.2024",
+        "STRUMENTO FINANZIARIO":"put 4880 15 marzo 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":8.26,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"22.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":15,
+        "PREZZO":5070.25,
+        "VALUTA":"USD",
+        "N. FUTURES":12,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"20.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":6,
+        "PREZZO":4977.75,
+        "VALUTA":"USD",
+        "N. FUTURES":27,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"15.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":7,
+        "PREZZO":5024.25,
+        "VALUTA":"USD",
+        "N. FUTURES":21,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"13.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":4980.75,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"12.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":5,
+        "PREZZO":5052.0,
+        "VALUTA":"USD",
+        "N. FUTURES":18,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"08.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":10,
+        "PREZZO":5013.25,
+        "VALUTA":"USD",
+        "N. FUTURES":23,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"02.02.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":10,
+        "PREZZO":4957.5,
+        "VALUTA":"USD",
+        "N. FUTURES":33,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"31.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":4907.0,
+        "VALUTA":"USD",
+        "N. FUTURES":43,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"30.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":5,
+        "PREZZO":4947.25,
+        "VALUTA":"USD",
+        "N. FUTURES":35,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"24.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":10,
+        "PREZZO":4925.75,
+        "VALUTA":"USD",
+        "N. FUTURES":40,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.01.2024",
+        "STRUMENTO FINANZIARIO":"put 4880 15 marzo 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":79.0,
+        "VALUTA":"USD",
+        "N. FUTURES":50,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"23.01.2024",
+        "STRUMENTO FINANZIARIO":"put 4710 31 gennaio 2024",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":2.75,
+        "VALUTA":"USD",
+        "N. FUTURES":50,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"23.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":43,
+        "PREZZO":4876.25,
+        "VALUTA":"USD",
+        "N. FUTURES":50,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"22.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":8,
+        "PREZZO":4880.5,
+        "VALUTA":"USD",
+        "N. FUTURES":7,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"19.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":4831.0,
+        "VALUTA":"USD",
+        "N. FUTURES":15,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"18.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":8,
+        "PREZZO":4792.5,
+        "VALUTA":"USD",
+        "N. FUTURES":24,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"17.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":4772.25,
+        "VALUTA":"USD",
+        "N. FUTURES":32,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"10.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":15,
+        "PREZZO":4797.6,
+        "VALUTA":"USD",
+        "N. FUTURES":24,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"03.01.2024",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":4756.0,
+        "VALUTA":"USD",
+        "N. FUTURES":39,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"22.12.2023",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":10,
+        "PREZZO":4808.75,
+        "VALUTA":"USD",
+        "N. FUTURES":29,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"21.12.2023",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":4764.0,
+        "VALUTA":"USD",
+        "N. FUTURES":39,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"19.12.2023",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":6,
+        "PREZZO":4813.5,
+        "VALUTA":"USD",
+        "N. FUTURES":29,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"14.12.2023",
+        "STRUMENTO FINANZIARIO":"Futures Marzo",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":35,
+        "PREZZO":4777.75,
+        "VALUTA":"USD",
+        "N. FUTURES":35,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"14.12.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":60,
+        "PREZZO":4721.85,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"11.12.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":10,
+        "PREZZO":4609.25,
+        "VALUTA":"USD",
+        "N. FUTURES":60,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"30.11.2023",
+        "STRUMENTO FINANZIARIO":"put 4710 31 gennaio 2024",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":149.08,
+        "VALUTA":"USD",
+        "N. FUTURES":70,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"30.11.2023",
+        "STRUMENTO FINANZIARIO":"put 4600 30 novembre 2023",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":46.02,
+        "VALUTA":"USD",
+        "N. FUTURES":70,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"22.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":15,
+        "PREZZO":4571.5,
+        "VALUTA":"USD",
+        "N. FUTURES":70,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"16.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":85,
+        "PREZZO":4507.33,
+        "VALUTA":"USD",
+        "N. FUTURES":85,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"16.11.2023",
+        "STRUMENTO FINANZIARIO":"put 4600 30 novembre 2023",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":95,
+        "PREZZO":100.94,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"14.11.2023",
+        "STRUMENTO FINANZIARIO":"put 4600 30 novembre 2023",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":5,
+        "PREZZO":100.4,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":5
+    },
+    {
+        "DATA":"14.11.2023",
+        "STRUMENTO FINANZIARIO":"put 4300 5 dicembre 2023",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":6.4,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"14.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":21,
+        "PREZZO":4518.25,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"13.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":7,
+        "PREZZO":4421.75,
+        "VALUTA":"USD",
+        "N. FUTURES":21,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"07.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":5,
+        "PREZZO":4396.0,
+        "VALUTA":"USD",
+        "N. FUTURES":28,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"03.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":13,
+        "PREZZO":4380.75,
+        "VALUTA":"USD",
+        "N. FUTURES":33,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"02.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":19,
+        "PREZZO":4316.0,
+        "VALUTA":"USD",
+        "N. FUTURES":46,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"01.11.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":5,
+        "PREZZO":4223.0,
+        "VALUTA":"USD",
+        "N. FUTURES":65,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"26.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":57,
+        "PREZZO":4177.63,
+        "VALUTA":"USD",
+        "N. FUTURES":70,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"26.10.2023",
+        "STRUMENTO FINANZIARIO":"put 4300 5 dicembre 2023",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":164.82,
+        "VALUTA":"USD",
+        "N. FUTURES":127,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"26.10.2023",
+        "STRUMENTO FINANZIARIO":"put 4540 31 ottobre 2023",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":101,
+        "PREZZO":349.99,
+        "VALUTA":"USD",
+        "N. FUTURES":127,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"26.10.2023",
+        "STRUMENTO FINANZIARIO":"put 4420 31 ottobre 2023",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":30,
+        "PREZZO":222.0,
+        "VALUTA":"USD",
+        "N. FUTURES":127,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"20.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":4264.5,
+        "VALUTA":"USD",
+        "N. FUTURES":127,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"18.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":12,
+        "PREZZO":4371.9,
+        "VALUTA":"USD",
+        "N. FUTURES":116,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"17.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":9,
+        "PREZZO":4416.75,
+        "VALUTA":"USD",
+        "N. FUTURES":104,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"13.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":11,
+        "PREZZO":4369.0,
+        "VALUTA":"USD",
+        "N. FUTURES":113,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"10.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":19,
+        "PREZZO":4399.5,
+        "VALUTA":"USD",
+        "N. FUTURES":102,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"06.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":24,
+        "PREZZO":4323.75,
+        "VALUTA":"USD",
+        "N. FUTURES":121,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"06.10.2023",
+        "STRUMENTO FINANZIARIO":"Put 4420 31 ottobre 2023",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":30,
+        "PREZZO":147.0,
+        "VALUTA":"USD",
+        "N. FUTURES":97,
+        "N. OPZIONI":131
+    },
+    {
+        "DATA":"03.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":4,
+        "PREZZO":4266.25,
+        "VALUTA":"USD",
+        "N. FUTURES":97,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"02.10.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":5,
+        "PREZZO":4317.25,
+        "VALUTA":"USD",
+        "N. FUTURES":93,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"28.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":4,
+        "PREZZO":4347.5,
+        "VALUTA":"USD",
+        "N. FUTURES":88,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"27.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":4,
+        "PREZZO":4306.0,
+        "VALUTA":"USD",
+        "N. FUTURES":92,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"26.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":8,
+        "PREZZO":4344.0,
+        "VALUTA":"USD",
+        "N. FUTURES":88,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"22.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":19,
+        "PREZZO":4398.0,
+        "VALUTA":"USD",
+        "N. FUTURES":80,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"22.09.2023",
+        "STRUMENTO FINANZIARIO":"Put 4540 31 ottobre 2023",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":101,
+        "PREZZO":166.0,
+        "VALUTA":"USD",
+        "N. FUTURES":99,
+        "N. OPZIONI":101
+    },
+    {
+        "DATA":"22.09.2023",
+        "STRUMENTO FINANZIARIO":"Put 4600 29 set 2023",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":100,
+        "PREZZO":207.0,
+        "VALUTA":"USD",
+        "N. FUTURES":99,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"21.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":4,
+        "PREZZO":4400.5,
+        "VALUTA":"USD",
+        "N. FUTURES":99,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"19.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":10,
+        "PREZZO":4470.0,
+        "VALUTA":"USD",
+        "N. FUTURES":95,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"15.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":14,
+        "PREZZO":4509.5,
+        "VALUTA":"USD",
+        "N. FUTURES":85,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"14.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Dicembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":71,
+        "PREZZO":4548.25,
+        "VALUTA":"USD",
+        "N. FUTURES":71,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"14.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":80,
+        "PREZZO":4496.1,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"07.09.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":23,
+        "PREZZO":4449.5,
+        "VALUTA":"USD",
+        "N. FUTURES":80,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"30.08.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":12,
+        "PREZZO":4523.5,
+        "VALUTA":"USD",
+        "N. FUTURES":57,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"29.08.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":11,
+        "PREZZO":4476.0,
+        "VALUTA":"USD",
+        "N. FUTURES":69,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"28.08.2023",
+        "STRUMENTO FINANZIARIO":"Put 29.09.23 Strike 4600",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":100,
+        "PREZZO":141.0,
+        "VALUTA":"USD",
+        "N. FUTURES":80,
+        "N. OPZIONI":100
+    },
+    {
+        "DATA":"28.08.2023",
+        "STRUMENTO FINANZIARIO":"Put 15.09.23 Strike 4750",
+        "OPERAZIONE":"SOLD",
+        "QUANTITÀ":80,
+        "PREZZO":319.0,
+        "VALUTA":"USD",
+        "N. FUTURES":80,
+        "N. OPZIONI":0
+    },
+    {
+        "DATA":"24.08.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":1,
+        "PREZZO":4408.5,
+        "VALUTA":"USD",
+        "N. FUTURES":80,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"16.08.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":3,
+        "PREZZO":4452.75,
+        "VALUTA":"USD",
+        "N. FUTURES":79,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"08.08.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":5,
+        "PREZZO":4487.75,
+        "VALUTA":"USD",
+        "N. FUTURES":76,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"02.08.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":7,
+        "PREZZO":4544.0,
+        "VALUTA":"USD",
+        "N. FUTURES":71,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"31.07.2023",
+        "STRUMENTO FINANZIARIO":"Futures Settembre",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":64,
+        "PREZZO":4609.8,
+        "VALUTA":"USD",
+        "N. FUTURES":64,
+        "N. OPZIONI":80
+    },
+    {
+        "DATA":"31.07.2023",
+        "STRUMENTO FINANZIARIO":"Put 15.09.23 Strike 4750",
+        "OPERAZIONE":"BOT",
+        "QUANTITÀ":80,
+        "PREZZO":160.0,
+        "VALUTA":"USD",
+        "N. FUTURES":0,
+        "N. OPZIONI":80
+    }
+]
