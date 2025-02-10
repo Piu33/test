@@ -20,6 +20,9 @@ jobs:
 
       - name: 📦 Install Dependencies
         run: pip install pandas openpyxl
+      
+      - name: 🗑️ Rimuovi data.json
+        run: rm -f files/data.json 
 
       - name: 🚀 Run Script
         run: python script.py
