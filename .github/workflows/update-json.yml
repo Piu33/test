@@ -21,8 +21,15 @@ jobs:
       - name: 📦 Install Dependencies
         run: pip install pandas openpyxl
       
-      - name: 🗑️ Rimuovi data.json
-        run: rm -f files/data.json 
+      - name: 🗑️ Rimuovi table.json
+        run: rm -f files/table.json 
+
+      - name: 🗑️ Rimuovi vix.json
+        run: rm -f files/vix.json 
+      
+      - name: 🗑️ Rimuovi sp.json
+        run: rm -f files/sp.json 
+        
 
       - name: 🚀 Run Script
         run: python script.py
@@ -31,8 +38,10 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add files/data.json
+          git add files/table.json
+          git add files/vix.json
+          git add files/sp.json
           git diff --quiet && git diff --staged --quiet || (
-            git commit -m "Aggiornato data.json da Excel"
+            git commit -m "Aggiornato files json da Excel"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           )
