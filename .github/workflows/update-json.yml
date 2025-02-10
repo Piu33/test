@@ -1,0 +1,32 @@
+name: Update JSON from Excel
+
+on:
+  push:
+    branches:
+      - main  # Esegui lo script ogni volta che c'è un push su "main"
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🔧 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: 📦 Install Dependencies
+        run: pip install pandas openpyxl
+
+      - name: 🚀 Run Script
+        run: python script.py
+
+      - name: 🔄 Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add files/dati.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiornato dati.json da Excel" && git push)
