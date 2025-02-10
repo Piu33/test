@@ -1,15 +1,5 @@
 [
     {
-        "DATA":"12.02.2025",
-        "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
-        "OPERAZIONE":"BOT",
-        "QUANTITÀ":23,
-        "PREZZO":84.0,
-        "VALUTA":"USD",
-        "N. FUTURES":32,
-        "N. OPZIONI":14
-    },
-    {
         "DATA":"06.02.2025",
         "STRUMENTO FINANZIARIO":"put 6040 21 marzo 2025",
         "OPERAZIONE":"BOT",
