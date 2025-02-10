@@ -35,7 +35,7 @@ jobs:
         run: python script.py
       
       - name: ⏳ Attendi 2 minuti prima del commit
-        run: sleep 180  
+        run: sleep 120  
 
       - name: 🔄 Commit & Push Changes
         run: |
